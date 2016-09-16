@@ -1,5 +1,7 @@
 # Slidebars
 
+## RHD EDITED for WordPress compatibility
+
 Slidebars is a jQuery Framework for Off-Canvas Menus and Sidebars into your website or web app.
 
 Version 2.0 is a complete rewrite which features clean and discreet markup, permits an unlimited number of off-canvas instances on any side and is equipped with a full API, callbacks and events for ultimate control.
